@@ -14,7 +14,7 @@ The plots/tables were produced under the following softwares
 [Important Notes]:
 1. The Matlab package "trmf-exp-0.1" should be firstly downloaded from https://github.com/rofuyu/exp-trmf-nips16 and it can NOT be run on windows,
    and its readme file says it could be run on MACOS but we have only used/tested it on Linux (Ubuntu).
-2. The data used here (in foler "./data/" and the file "./trmf-exp-0.1/USMx90.csv") should be downloaded downloaded from The Human Mortality Database (https://www.mortality.org/)
+2. The data used here ("USMx90.csv")is central mortality rates (Mx_1x1) for ages 0-90+, which should be downloaded and processed from The Human Mortality Database (https://www.mortality.org/)
 
 Guidlines for Reproduction
 =========================
