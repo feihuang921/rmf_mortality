@@ -1,4 +1,8 @@
 # rmf_mortality
+This directory provides codes to reproduce the results in the following paper:
+
+Yao, Y., Yu, H., Zhang, X., Roberts, S. & Huang, F. (2018), ‘Mortality forecasting using the
+regularized matrix factorization method’. Working Paper.
 
 Software Dependency
 ===================
